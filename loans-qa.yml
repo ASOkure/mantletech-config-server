@@ -1,0 +1,11 @@
+build:
+  version: "2"
+
+loans:
+  message: "Welcome to Bank loans related QA APIs "
+  contactDetails:
+    name: "Cyrano Marita -  QA Lead"
+    email: "cyrano@mantletechsolutions.com"
+  onCallSupport:
+    - (+44) 785 545-6565
+    - (+44) 853 546-3467

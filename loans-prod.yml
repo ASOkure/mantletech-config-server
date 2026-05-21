@@ -1,0 +1,11 @@
+build:
+  version: "1"
+
+loans:
+  message: "Welcome to Bank loan related prod APIs "
+  contactDetails:
+    name: "Pelias Sudhir - product Owner"
+    email: "Pelias@mantletechsolutions.com"
+  onCallSupport:
+    - (+44) 723 656-8709
+    - (+44) 156 342-0956

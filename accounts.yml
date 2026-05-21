@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank accounts related local APIs "
+  contactDetails:
+    name: "Sam Okure - Developer"
+    email: "john@mantletechsolutions.com"
+  onCallSupport:
+    - (+44) 7741368-555
+    - (+44) 7741368-555

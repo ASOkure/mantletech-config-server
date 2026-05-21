@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs "
+  contactDetails:
+    name: "Sam Smith -  QA Lead"
+    email: "smith@mantletechsolutions.com"
+  onCallSupport:
+    - (+44) 7741368-888
+    - (+44) 7741368-888
