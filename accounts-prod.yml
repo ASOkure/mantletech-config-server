@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related prod APIs "
   contactDetails:
     name: "Ethan Okure - product Owner"
-    email: "ethan@mantletechsolutions.com"
+    email: "{cipher}879535fd55863d70bceadfbc7304f6a50b9af27951ea2da56a9d1e7c05c5f09fded4f92bcbf6e7d0173deaaaff7c9db0"
   onCallSupport:
     - (+44) 7741368-777
     - (+44) 7741368-777
