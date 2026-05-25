@@ -2,7 +2,7 @@ build:
   version: "1"
 
 loans:
-  message: "Welcome to Bank loan related prod APIs "
+  message: "Welcome to Bank loan related production APIs "
   contactDetails:
     name: "Pelias Sudhir - product Owner"
     email: "Pelias@mantletechsolutions.com"
