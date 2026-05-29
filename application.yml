@@ -1,14 +1,2 @@
-spring:
-  application:
-    name: "configserver"
-  profiles:
-    active: git
-  cloud:
-    config:
-      server:
-        native:
-          search-locations: "classpath:/config"
-
-
-server:
-  port: 8071
+build:
+  version: "1.0"
