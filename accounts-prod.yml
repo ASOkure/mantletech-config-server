@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related production APIs "
+  message: "Welcome to Bank accounts related production webhook test APIs "
   contactDetails:
     name: "Ethan Okure - product Owner"
     email: "{cipher}879535fd55863d70bceadfbc7304f6a50b9af27951ea2da56a9d1e7c05c5f09fded4f92bcbf6e7d0173deaaaff7c9db0"
